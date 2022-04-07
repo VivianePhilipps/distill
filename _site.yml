@@ -1,0 +1,14 @@
+name: "."
+title: "The distill website - Viviane Philipps"
+description: |
+  Viviane Philipps
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Publi"
+      href: publication.html
+output: distill::distill_article
