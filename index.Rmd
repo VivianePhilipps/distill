@@ -4,10 +4,6 @@ image: "vp.jpg"
 links:
   - label: french website
     url: "https://www.bordeaux-population-health.center/profile/viviane-philipps/"
-  - label: arXiv publications
-    url: "https://arxiv.org/a/philipps_v_1"
-  - label: github programs
-    url: "https://github.com/VivianePhilipps"
 output:
   postcards::solana
 site: distill::distill_website  

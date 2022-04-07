@@ -1,0 +1,41 @@
+---
+title: "My R packages"
+description: |
+  A new article created using the Distill format.
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## lcmm
+
+Estimation of latent class mixed models by maximum likelihood approach. It includes linear mixed models, mixed models for continuous curvilinear outcomes or ordinal outcomes, multivariate mixed models, joint latent class mixed models.  
+Available at CRAN.
+
+## JLPM
+
+Estimation of joint latent class models. 
+Available at CRAN.
+
+## marqLevAlg
+
+A Marquardt-Levenberg algorithm.
+Available at CRAN.
+
+
+## multLPM
+
+Multivariate latent process models.
+Available on github.
+
+
+## weightQuant
+
+Weights for incomplete longitudinal data and quantile regression.
+Available at CRAN.
+
+
