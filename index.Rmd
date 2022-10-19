@@ -1,31 +1,57 @@
 ---
 title: "Viviane Philipps"
-image: "vp.jpg"
+image: "wordsphotored2.jpeg"
 links:
-  - label: french website
-    url: "https://www.bordeaux-population-health.center/profile/viviane-philipps/"
+  - label: github 
+    url: "https://github.com/VivianePhilipps"
+  - label: arXiv
+    url: "https://arxiv.org/a/philipps_v_1"
 output:
   postcards::solana
 site: distill::distill_website  
 ---
- <body style="background-color:azure;">
+ <body style="background-color:lightcoral;">
  
-## Bio
+ 
+<style>
+body {
+text-align: justify}
+</style>
+
+<br>
+
+# Profile
 
 I am a research assistant in the biostatistics team of the Bordeaux Population Health Center. I take part in the development of new statistical methods for analyzing longitudinal data. 
+I mainly use mixed models, latent class models and joint shared random effects models within a maximum likelihood approach, and my applications focus on aging.
 
-## Education
+Most of my work is about :
 
-**2012 : Master's degree in statistics** | Strasbourg University, France
+- implementing the statistical methods developped in teams in user friendly R packages
 
-**2010 : Bachelor's degree in mathematics** | Strasbourg University, France
+- carrying out simulation studies to compare usual or/and innovative methods in biostatistics
 
-## Experiences
+- analyzing real data in aging, in terms of cognitive decline or dependency
 
-**Since 2012 : Statistician** | Bordeaux Population Health center
+- providing methodological support and programming assistance to the members of the team
 
-**2012 : 5 months internship in biostatistics ** | Bordeaux Population Health center
+- parallelization of algorithms
 
-**2011 : 2 months internship in biostatistics ** | IGBMC, Illkirch-Graffenstaden
+- programming in R, Fortran and C++
 
+<br>
+
+# Brief resume 
+
+Since 2017 : Statistician, Permanent position (Ingénieure d'étude contractuelle en CDI), Bordeaux Population Health center
+
+2012 - 2017 : Statisticia, Non-permanent position (Ingénieure d'étude contractuelle en CDD), Bordeaux Population Health center.
+
+2012 : 5 months internship in biostatistics, Bordeaux Population Health center
+
+2011 : 2 months internship in biostatistics, IGBMC, Illkirch-Graffenstaden
+
+2010 - 2012 : Master's degree in statistics, Strasbourg University, France
+
+2007 - 2010 : Bachelor's degree in mathematics, Strasbourg University, France
 

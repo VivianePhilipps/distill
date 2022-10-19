@@ -1,7 +1,6 @@
 ---
 title: "My scientific publications"
-description: |
-  A new article created using the Distill format.
+description:
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
@@ -9,14 +8,14 @@ output: distill::distill_article
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+ <body style="background-color:lightcoral;">
 
 ## Pre-print
-Hashemi R, Philipps V, Jacqmin-Gadda H. Dynamic prediction of an event from multiple longitudinal markers : a model averaging approach
+Hashemi R, Philipps V, Jacqmin-Gadda H. Dynamic prediction of an event from multiple longitudinal markers : a model averaging approach.
 
 Jacqmin-Gadda H, Philipps V, Tzourio C, Helmer C, Joly P. Impact of interventions scenarios targeting three main vascular risk factors on the future burden of dementia in France.
 
-Proust-Lima C, Saulnier T, Philipps V, Pavy-Le Traon A, Peran P, Rascal O, Meissner WG, Foubert-Samier A. Describing complex disease progression using joint latent class models for multivariate longitudinal markers and clinical
-endpoints
+Proust-Lima C, Saulnier T, Philipps V, Pavy-Le Traon A, Peran P, Rascal O, Meissner WG, Foubert-Samier A. Describing complex disease progression using joint latent class models for multivariate longitudinal markers and clinical endpoints.
 
 
 ## Accepted

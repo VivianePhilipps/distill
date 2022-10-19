@@ -1,7 +1,6 @@
 ---
 title: "My R packages"
-description: |
-  A new article created using the Distill format.
+description: 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
@@ -9,7 +8,7 @@ output: distill::distill_article
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
+<body style="background-color:lightcoral;">
 
 ## lcmm
 
@@ -18,18 +17,18 @@ Available at CRAN.
 
 ## JLPM
 
-Estimation of joint latent class models. 
+Estimation of joint shared random effects models by maximum likelihood approach. Longitudinal data can be continuous or ordinal and are modelled in a mixed model framework. The survival proportional model treats competing events. The shared structure is either the vector of the random effects or the current level of the longitudinal process. The likelihood is computed using Monte Carlo integration.  
 Available at CRAN.
 
 ## marqLevAlg
 
-A Marquardt-Levenberg algorithm.
+A parallelized Marquardt-Levenberg algorithm. It provides a numerical solution to the problem of unconstrained local optimization.
 Available at CRAN.
 
 
 ## multLPM
 
-Multivariate latent process models.
+Estimation of multivariate latent process models. Multiple longitudinal data can be modelled using several mixed models correlated through the random effects. Repeated diagnosis indicators are modelled by a degradation process. A frequentist maximum likelihood approach is proposed.
 Available on github.
 
 
@@ -38,4 +37,8 @@ Available on github.
 Weights for incomplete longitudinal data and quantile regression.
 Available at CRAN.
 
+## NormPsy
+
+Normalization of the MMSE scores.
+Available at CRAN.
 
