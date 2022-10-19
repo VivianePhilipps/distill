@@ -1,6 +1,7 @@
 ---
 title: "Viviane Philipps"
-image: "wordsphotored2.jpeg"
+desciption:
+image: "wordsphotored3.jpeg"
 links:
   - label: github 
     url: "https://github.com/VivianePhilipps"
