@@ -40,7 +40,7 @@ Proust-Lima C, Philipps V, Dartigues JF (2019). A joint model from multiple dyna
 
 Proust-Lima C, Philipps V, Dartigues JF, Bennett DA, Glymour MM, Jacqmin-Gadda H, Samieri C (2019). Are latent variable models preferable to composite score approaches when assessing risk factors of change? Evaluation of type-I error and statistical power in longitudinal cognitives studies, Stat Methods Med Res, 28(7), 1942-1957.
 
-Proust-Lima C, Philipps V, Liquet B (2017). Estimation of Extended MixedModels Using Latent Classes and Latent Processes : the R package lcmm, JSS, 78(2), 1-56.
+Proust-Lima C, Philipps V, Liquet B (2017). Estimation of Extended Mixed Models Using Latent Classes and Latent Processes : the R package lcmm, JSS, 78(2), 1-56.
 
 Philipps V, Amieva H, Andrieu S, Dufouil C, Berr C, Dartigues JF, Jacqmin-Gadda H, Proust-Lima C (2014). Normalized MMSE for assessing cognitive change in population-based aging studies, NeuroEpidemiology, 43(1), 15–25.
 
