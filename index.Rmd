@@ -28,7 +28,7 @@ I mainly use mixed models, latent class models and joint shared random effects m
 
 Most of my work is about :
 
-- implementing the statistical methods developped in teams in user friendly R packages
+- implementing the statistical methods developped in the team in user friendly R packages
 
 - carrying out simulation studies to compare usual or/and innovative methods in biostatistics
 
