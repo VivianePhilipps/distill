@@ -23,7 +23,7 @@ text-align: justify}
 
 # Profile
 
-I am a research assistant in the biostatistics team of the Bordeaux Population Health Center. I take part in the development of new statistical methods for analyzing longitudinal data. 
+I am a statistican in the biostatistics team of the Bordeaux Population Health Center. I take part in the development of new statistical methods for analyzing longitudinal data. 
 I mainly use mixed models, latent class models and joint shared random effects models within a maximum likelihood framework, and my applications focus on aging.
 
 Most of my work is about :
