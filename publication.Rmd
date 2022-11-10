@@ -1,6 +1,6 @@
 ---
 title: "My scientific publications"
-description:
+description: "Viviane Philipps - Publications"
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---

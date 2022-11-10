@@ -1,6 +1,6 @@
 ---
 title: "Viviane Philipps"
-desciption:
+description: "Viviane Philipps - Statistician in Bordeaux"
 image: "wordsphotored3.jpeg"
 links:
   - label: github 

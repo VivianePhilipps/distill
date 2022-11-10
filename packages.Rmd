@@ -1,6 +1,6 @@
 ---
 title: "My R packages"
-description: 
+description: "Viviane Philipps - R packages"
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
