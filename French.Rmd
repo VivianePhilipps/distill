@@ -1,0 +1,63 @@
+---
+title: "Viviane Philipps"
+description: |
+  A french version
+image: "wordsphotored3.jpeg"
+author:
+  - name: Viviane Philipps
+output:
+  postcards::solana
+site: distill::distill_website  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<body style="background-color:lightcoral;">
+ 
+ 
+<style>
+body {
+text-align: justify}
+</style>
+
+<br>
+
+# Profil
+
+Je suis statisticienne dans l'équipe Biostatistique du centre INSERM Bordeaux Population Health. Je participe au développement de nouvelles méthodes statistiques pour analyser des données de santé longitudinales.
+J'utilise essentiellement des modèles basés sur la théorie des modèles mixtes, des classes latentes et des modèles conjoints, estimés par maximum de vraisemblance. Mes applications touchent le vieillissement, du point de vue du déclin cognitif ou de la perte d'autonomie.
+
+Mon travail consiste principalement à :
+
+- implémenter les méthodes statistiques développées dans l'équipe dans des packages R
+
+- réaliser des études de simulation comparant différents modèles statistiques
+
+- analyser des données réelles sur le vieillissement
+
+- apporter un soutien méthodologique et informatique aux membres de l'équipe
+
+- paralléliser des algorithmes
+
+- fournir des programmes R, Fortran ou C++
+
+<br>
+
+# Parcours
+
+Depuis 2017 : Statisticienne, Ingénieure d'étude contractuelle en CDI, Bordeaux Population Health center
+
+2012 - 2017 : Statisticienne, Ingénieure d'étude contractuelle en CDD, Bordeaux Population Health center.
+
+2012 : stage (5 mois) en biostatistique, centre Bordeaux Population Health
+
+2011 : stage (2 mois) en biostatistique, IGBMC, Illkirch-Graffenstaden
+
+2010 - 2012 : Master de statistique, Université de Strasbourg
+
+2007 - 2010 : Licence de mathématiques, Université de Strasbourg
+
+
+
