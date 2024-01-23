@@ -1,6 +1,6 @@
 ---
-title: "My scientific publications"
-description: "Viviane Philipps - Publications"
+title: "Publications"
+description: "List of my scientific papers"
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
@@ -10,12 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
  <body style="background-color:lightcoral;">
 
-## Pre-print
-
-Hashemi R, Baghfalaki T, **Philipps V**, Jacqmin-Gadda H. Dynamic prediction of an event using multiple longitudinal markers : a model averaging approach.
-
-
-## Accepted
+Hashemi R, Baghfalaki T, **Philipps V**, Jacqmin-Gadda H (2024). Dynamic prediction of an event using multiple longitudinal markers : a model averaging approach, Stat Med.
 
 Le Gall L, Harambat J, Combe C, **Philipps V**, Proust-Lima C, Dussartre M, Drueke T, Choukroun G, Fouque D, Frimat L, Jacquelinet C, Laville M, Liabeuf S, Pecoits-Filho R, Massy Z A, Stengel B, Alencar de Pinho N, Leffondre K, Prezelin-Reydit M, the CKD-REIN study group (2023). Haemoglobin trajectories in chronic kidney disease and risk of major adverse cardiovascular events, Nephrology Dialysis Transplantation.
 

@@ -2,7 +2,7 @@
 title: "Viviane Philipps"
 description: |
   A french version
-image: "wordsphotored3.jpeg"
+image: "wordsphotored5.jpeg"
 author:
   - name: Viviane Philipps
 output:
@@ -27,7 +27,7 @@ text-align: justify}
 # Profil
 
 Je suis statisticienne dans l'équipe Biostatistique du centre INSERM Bordeaux Population Health. Je participe au développement de nouvelles méthodes statistiques pour analyser des données de santé longitudinales.
-J'utilise essentiellement des modèles basés sur la théorie des modèles mixtes, des classes latentes et des modèles conjoints, estimés par maximum de vraisemblance. Mes applications touchent le vieillissement, du point de vue du déclin cognitif ou de la perte d'autonomie.
+J'utilise essentiellement des modèles basés sur la théorie des modèles mixtes, des classes latentes et des modèles conjoints, estimés par maximum de vraisemblance. Mes applications touchent au vieillissement, du point de vue du déclin cognitif ou de la perte d'autonomie.
 
 Mon travail consiste principalement à :
 
@@ -41,7 +41,7 @@ Mon travail consiste principalement à :
 
 - paralléliser des algorithmes
 
-- fournir des programmes R, Fortran ou C++
+- fournir des programmes R, Fortran ou C
 
 <br>
 

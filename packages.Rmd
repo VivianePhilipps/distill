@@ -1,6 +1,6 @@
 ---
-title: "My R packages"
-description: "Viviane Philipps - R packages"
+title: "R packages"
+description: "List of my R packages"
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
@@ -10,35 +10,58 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 <body style="background-color:lightcoral;">
 
-## lcmm
+## <img src="stickerlcmm.png" align="right" width=90 style="margin-right: 0px;vertical-align:middle"/> lcmm
 
 Estimation of latent class mixed models by maximum likelihood approach. It includes linear mixed models, mixed models for continuous curvilinear outcomes or ordinal outcomes, multivariate mixed models, joint latent class mixed models.  
-Available at CRAN.
+
+https://CRAN.R-project.org/package=lcmm
+
+https://github.com/CecileProust-Lima/lcmm
+
+
+<br>
 
 ## JLPM
 
-Estimation of joint shared random effects models by maximum likelihood approach. Longitudinal data can be continuous or ordinal and are modelled in a mixed model framework. The survival proportional model treats competing events. The shared structure is either the vector of the random effects or the current level of the longitudinal process. The likelihood is computed using Monte Carlo integration.  
-Available at CRAN.
+Estimation of joint shared random effects models by maximum likelihood approach. Longitudinal data can be continuous or ordinal and are modelled in a mixed model framework. The survival proportional model treats competing events. The shared structure is either the vector of the random effects or the current level of the longitudinal process. The likelihood is computed using Monte Carlo integration.
 
-## marqLevAlg
+https://CRAN.R-project.org/package=JLPM
+
+https://github.com/VivianePhilipps/JLPM
+
+
+<br>
+
+## <img src="stickerMarqLevAlg.png" align="right" width=90 style="margin-right: 0px;vertical-align:middle"/>  marqLevAlg
 
 A parallelized Marquardt-Levenberg algorithm. It provides a numerical solution to the problem of unconstrained local optimization.
-Available at CRAN.
 
+https://CRAN.R-project.org/package=marqLevAlg
+
+https://github.com/VivianePhilipps/marqLevAlgParallel
+
+
+<br>
 
 ## multLPM
 
 Estimation of multivariate latent process models. Multiple longitudinal data can be modelled using several mixed models correlated through the random effects. Repeated diagnosis indicators are modelled by a degradation process. A frequentist maximum likelihood approach is proposed.
-Available on github.
 
+https://github.com/VivianePhilipps/multLPM
+
+<br>
 
 ## weightQuant
 
 Weights for incomplete longitudinal data and quantile regression.
-Available at CRAN.
+
+https://CRAN.R-project.org/package=weightQuant
+
+<br>
 
 ## NormPsy
 
 Normalization of the MMSE scores.
-Available at CRAN.
+
+https://CRAN.R-project.org/package=NormPsy
 
