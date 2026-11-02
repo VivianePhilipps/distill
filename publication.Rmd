@@ -10,6 +10,14 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
  <body style="background-color:lightcoral;">
 
+Rouanet A, **Philipps V**, Taddé BO, Pérès K, Proust-Lima C (2026). Modeling temporal relationsips between multivariate repeated markers along with clinical endpoints: application to Alzheimer's disease and related dementias, Biometrical Journal.
+
+Amieva H, Dussartre M, **Philipps V**, Rouanet A, Dufouil C, Jacqmin-Gadda H, Dartigues JF, Pérès K, Samieri C, Catheline G, Helmer C, Proust-Lima C (2026). Heterogeneous trajectories of executive function in clinical Alzheimer's disease: results from the 3C study, Alzheimer's & Dementia.
+
+**Philipps V**, Freedman L, Deffner V, Helmer C, Jacqmin-Gadda H, Boshuizen H, Thiébaut ACM, Proust-Lima C (2026). Including an infrequentlymeasured time-varying error-prone covariate in survival analyses: a simulation-based comparison of methods, AJE.
+
+Le Gall L, Alencar de Pinho N, Harambat J, Combe C, Drueke TB, Choukroun G, Fouque D, Barbieri A, Frimat L, Jacquelinet C, Laville M, Liabeuf S, Pecoits-Filho R, **Philipps V**, MAssy ZA, Stengel B, Prezelin-Reydit M, Leffondre K (2025).  Anaemia in chronic kidney disease: all cut from the same cloth? A longitudinal analysis of th association between haemoglobin and major adverse cardiovascular event, Nephrol Dial Transplant.
+
 Hashemi R, Baghfalaki T, **Philipps V**, Jacqmin-Gadda H (2024). Dynamic prediction of an event using multiple longitudinal markers : a model averaging approach, Stat Med.
 
 Le Gall L, Harambat J, Combe C, **Philipps V**, Proust-Lima C, Dussartre M, Drueke T, Choukroun G, Fouque D, Frimat L, Jacquelinet C, Laville M, Liabeuf S, Pecoits-Filho R, Massy Z A, Stengel B, Alencar de Pinho N, Leffondre K, Prezelin-Reydit M, the CKD-REIN study group (2023). Haemoglobin trajectories in chronic kidney disease and risk of major adverse cardiovascular events, Nephrology Dialysis Transplantation.
